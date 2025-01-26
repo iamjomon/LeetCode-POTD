@@ -11,6 +11,7 @@ This repository contains solutions to problems from [LeetCode](https://leetcode.
 
 | Problem Number | Date       | Language | Solution Link                         | Problem Link                          |
 |----------------|------------|----------|---------------------------------------|---------------------------------------|
+|  2127            | 26-01-2025 | Java     |  [Solution](./2127.java)                 | [Problem](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/?envType=daily-question&envId=2025-01-26)           |
 |  2948             | 25-01-2025 | Java     |  [Solution](./2948.java)                 | [Problem](https://leetcode.com/problems/make-lexicographically-smallest-array-by-swapping-elements/description/?envType=daily-question&envId=2025-01-25)           |
 |   802          | 24-01-2025 | Java     | [Solution](./802.java)                | [problem](https://leetcode.com/problems/find-eventual-safe-states/description/?envType=daily-question&envId=2025-01-24)            |
 |  1267             | 23-01-2025 | Java     | [Solution](./1267.java)                  |[problem](https://leetcode.com/problems/count-servers-that-communicate/description/?envType=daily-question&envId=2025-01-23)                 |
