@@ -4,7 +4,7 @@ This repository contains solutions to problems from [LeetCode](https://leetcode.
 
 ## Key Features
 - **Solutions Only**: This repository focuses on providing direct solutions without explanations.
-- **File Naming**: Files are named using the problem number, e.g., `120.java` for Problem 120.
+- **File Naming**: Files are named using the problem number, e.g., `1313.java` for Problem 1313. And the **Topic** is mentioned in the **commit message**
 - **Multiple Languages**: Solutions are primarily in **Java**, with potential use of other languages.
 
 ## Daily Progress Log - LeetCode
