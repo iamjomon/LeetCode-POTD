@@ -1,6 +1,6 @@
 # LeetCode Problem of The Day
 
-This repository contains solutions to problems from [LeetCode](https://leetcode.com/). The files are named using the **problem number** for easy identification and organization.
+This repository contains solutions to problems from ***[LeetCode](https://leetcode.com/)***. The files are named using the **problem number** for easy identification and organization.
 
 ## Key Features
 - **Solutions Only**: This repository focuses on providing direct solutions without explanations.
