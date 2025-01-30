@@ -11,7 +11,8 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Problem Number | Date       | Language | Solution Link                         | Problem Link                          |
 |----------------|------------|----------|---------------------------------------|---------------------------------------|
-|  684           | 29-01-2025 | Java     |  [Solution](./684.java)                 | [Problem](https://leetcode.com/problems/redundant-connection/?envType=daily-question&envId=2025-01-29)  
+|  2493          | 30-01-2025 | Java     |  [Solution](./2493.java)                 | [Problem](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/?envType=daily-question&envId=2025-01-30)  |
+|  684           | 29-01-2025 | Java     |  [Solution](./684.java)                 | [Problem](https://leetcode.com/problems/redundant-connection/?envType=daily-question&envId=2025-01-29)  |
 |  2658           | 28-01-2025 | Java     |  [Solution](./2658.java)                 | [Problem](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/?envType=daily-question&envId=2025-01-28)           |
 |  1462           | 27-01-2025 | Java     |  [Solution](./1462.java)                 | [Problem](https://leetcode.com/problems/course-schedule-iv/description/?envType=daily-question&envId=2025-01-27)           |
 |  2127            | 26-01-2025 | Java     |  [Solution](./2127.java)                 | [Problem](https://leetcode.com/problems/maximum-employees-to-be-invited-to-a-meeting/description/?envType=daily-question&envId=2025-01-26)           |
