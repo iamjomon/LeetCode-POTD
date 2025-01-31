@@ -11,6 +11,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Problem Number | Date       | Language | Solution Link                         | Problem Link                          |
 |----------------|------------|----------|---------------------------------------|---------------------------------------|
+|  827         | 31-01-2025 | Java     |  [Solution](./827.java)                 | [Problem](https://leetcode.com/problems/making-a-large-island/description/?envType=daily-question&envId=2025-01-31)  |
 |  2493          | 30-01-2025 | Java     |  [Solution](./2493.java)                 | [Problem](https://leetcode.com/problems/divide-nodes-into-the-maximum-number-of-groups/description/?envType=daily-question&envId=2025-01-30)  |
 |  684           | 29-01-2025 | Java     |  [Solution](./684.java)                 | [Problem](https://leetcode.com/problems/redundant-connection/?envType=daily-question&envId=2025-01-29)  |
 |  2658           | 28-01-2025 | Java     |  [Solution](./2658.java)                 | [Problem](https://leetcode.com/problems/maximum-number-of-fish-in-a-grid/?envType=daily-question&envId=2025-01-28)           |
