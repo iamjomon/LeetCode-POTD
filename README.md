@@ -11,6 +11,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Problem Number | Date       | Language | Solution Link                         | Problem Link                          |
 |----------------|------------|----------|---------------------------------------|---------------------------------------|
+| 3105  | 03-02-2025 | Java |[Solution](./3105.java) | [Problem](https://leetcode.com/problems/longest-strictly-increasing-or-strictly-decreasing-subarray/description/?envType=daily-question&envId=2025-02-03)  |
 |  1752   | 02-02-2025 | Java     |  [Solution](./1752.java)                 | [Problem](https://leetcode.com/problems/check-if-array-is-sorted-and-rotated/description/?envType=daily-question&envId=2025-02-02)  |
 |  3151         | 01-02-2025 | Java     |  [Solution](./3151.java)                 | [Problem](https://leetcode.com/problems/special-array-i/description/?envType=daily-question&envId=2025-02-01)  |
 |  827         | 31-01-2025 | Java     |  [Solution](./827.java)                 | [Problem](https://leetcode.com/problems/making-a-large-island/description/?envType=daily-question&envId=2025-01-31)  |
