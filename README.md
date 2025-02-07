@@ -11,6 +11,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Language | Solution Link                         | Problem Link                          |
 |------------|----------------|----------|---------------------------------------|---------------------------------------|
+| 07-02-2025 | 3160 | Java | [Solution](./3160.java) | [Problem](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/?envType=daily-question&envId=2025-02-07) |
 | 06-02-2025 | 1726 | Java | [Solution](./1726.java) | [Problem](https://leetcode.com/problems/tuple-with-same-product/description/?envType=daily-question&envId=2025-02-06) |
 | 05-02-2025 | 1790 | Java | [Solution](./1790.java) | [Problem](https://leetcode.com/problems/check-if-one-string-swap-can-make-strings-equal/description/?envType=daily-question&envId=2025-02-05) |
 | 04-02-2025 | 1800 | Java | [Solution](./1800.java) | [Problem](https://leetcode.com/problems/maximum-ascending-subarray-sum/description/?envType=daily-question&envId=2025-02-04) |
