@@ -1,6 +1,6 @@
 # LeetCode Problem of The Day <img src="https://github.com/user-attachments/assets/2be88086-3bd9-47b8-b796-5d497169772a" width="40">
 
-This repository contains solutions to problems from ***[LeetCode](https://leetcode.com/)***. The files are named using the **problem number** for easy identification and organization.
+This repository contains solutions to problems from ***[LeetCode](https://leetcode.com/problemset/)***. The files are named using the **problem number** for easy identification and organization.
 
 ## Key Features
 - **Solutions Only**: This repository focuses on providing direct solutions without explanations.
