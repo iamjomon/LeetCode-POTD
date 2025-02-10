@@ -11,6 +11,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Language | Solution Link                         | Problem Link                          |
 |------------|----------------|----------|---------------------------------------|---------------------------------------|
+| 10-02-2025 | 3174 | Java | [Solution](./3174.java) | [Problem](https://leetcode.com/problems/clear-digits/description/?envType=daily-question&envId=2025-02-10) |
 | 09-02-2025 | 2364 | Java | [Solution](./2364.java) | [Problem](https://leetcode.com/problems/count-number-of-bad-pairs/description/?envType=daily-question&envId=2025-02-09) |
 | 08-02-2025 | 2349 | Java | [Solution](./2349.java) | [Problem](https://leetcode.com/problems/design-a-number-container-system/description/?envType=daily-question&envId=2025-02-08) |
 | 07-02-2025 | 3160 | Java | [Solution](./3160.java) | [Problem](https://leetcode.com/problems/find-the-number-of-distinct-colors-among-the-balls/description/?envType=daily-question&envId=2025-02-07) |
