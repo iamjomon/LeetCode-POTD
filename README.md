@@ -11,6 +11,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Language | Solution Link                         | Problem Link                          |
 |------------|----------------|----------|---------------------------------------|---------------------------------------|
+| 14-02-2025 | 1352 | Java | [Solution](./1352.java) | [Problem](https://leetcode.com/problems/product-of-the-last-k-numbers/description/?envType=daily-question&envId=2025-02-14) |
 | 13-02-2025 | 3066 | Java | [Solution](./3066.java) | [Problem](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/description/?envType=daily-question&envId=2025-02-13) |
 | 12-02-2025 | 2342 | Java | [Solution](./2342.java) | [Problem](https://leetcode.com/problems/max-sum-of-a-pair-with-equal-sum-of-digits/description/?envType=daily-question&envId=2025-02-12) |
 | 11-02-2025 | 1910 | Java | [Solution](./1910.java) | [Problem](https://leetcode.com/problems/remove-all-occurrences-of-a-substring/description/?envType=daily-question&envId=2025-02-11) |
