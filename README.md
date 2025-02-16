@@ -11,6 +11,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Language | Solution Link                         | Problem Link                          |
 |------------|----------------|----------|---------------------------------------|---------------------------------------|
+| 16-02-2025 | 1718 | Java | [Solution](./1718.java) | [Problem](https://leetcode.com/problems/construct-the-lexicographically-largest-valid-sequence/description/?envType=daily-question&envId=2025-02-16) |
 | 15-02-2025 | 2698 | Java | [Solution](./2698.java) | [Problem](https://leetcode.com/problems/find-the-punishment-number-of-an-integer/description/?envType=daily-question&envId=2025-02-15) |
 | 14-02-2025 | 1352 | Java | [Solution](./1352.java) | [Problem](https://leetcode.com/problems/product-of-the-last-k-numbers/description/?envType=daily-question&envId=2025-02-14) |
 | 13-02-2025 | 3066 | Java | [Solution](./3066.java) | [Problem](https://leetcode.com/problems/minimum-operations-to-exceed-threshold-value-ii/description/?envType=daily-question&envId=2025-02-13) |
