@@ -11,6 +11,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Language | Solution Link                         | Problem Link                          |
 |------------|----------------|----------|---------------------------------------|---------------------------------------|
+| 22-02-2025 | 1028 | Java | [Solution](./1028.java) | [Problem](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/?envType=daily-question&envId=2025-02-22) |
 | 21-02-2025 | 1261 | Java | [Solution](./1261.java) | [Problem](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/?envType=daily-question&envId=2025-02-21) |
 | 20-02-2025 | 1980 | Java | [Solution](./1980.java) | [Problem](https://leetcode.com/problems/find-unique-binary-string/description/?envType=daily-question&envId=2025-02-20) |
 | 19-02-2025 | 1415 | Java | [Solution](./1415.java) | [Problem](https://leetcode.com/problems/the-k-th-lexicographical-string-of-all-happy-strings-of-length-n/description/?envType=daily-question&envId=2025-02-19) |
