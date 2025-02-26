@@ -11,6 +11,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Language | Solution Link                         | Problem Link                          |
 |------------|----------------|----------|---------------------------------------|---------------------------------------|
+| 26-02-2025 | 1749 | Java | [Solution](./1749.java) | [Problem](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/?envType=daily-question&envId=2025-02-26) |
 | 25-02-2025 | 1524 | Java | [Solution](./1524.java) | [Problem](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/?envType=daily-question&envId=2025-02-25) |
 | 24-02-2025 | 2467 | Java | [Solution](./2467.java) | [Problem](https://leetcode.com/problems/most-profitable-path-in-a-tree/description/?envType=daily-question&envId=2025-02-24) |
 | 23-02-2025 | 889  | Java | [Solution](./889.java) | [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/?envType=daily-question&envId=2025-02-23) |
