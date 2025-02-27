@@ -11,10 +11,11 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Language | Solution Link                         | Problem Link                          |
 |------------|----------------|----------|---------------------------------------|---------------------------------------|
+| 27-02-2025 | 873  | Java | [Solution](./873.java)  | [Problem](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/?envType=daily-question&envId=2025-02-27) |
 | 26-02-2025 | 1749 | Java | [Solution](./1749.java) | [Problem](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/?envType=daily-question&envId=2025-02-26) |
 | 25-02-2025 | 1524 | Java | [Solution](./1524.java) | [Problem](https://leetcode.com/problems/number-of-sub-arrays-with-odd-sum/?envType=daily-question&envId=2025-02-25) |
 | 24-02-2025 | 2467 | Java | [Solution](./2467.java) | [Problem](https://leetcode.com/problems/most-profitable-path-in-a-tree/description/?envType=daily-question&envId=2025-02-24) |
-| 23-02-2025 | 889  | Java | [Solution](./889.java) | [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/?envType=daily-question&envId=2025-02-23) |
+| 23-02-2025 | 889  | Java | [Solution](./889.java)  | [Problem](https://leetcode.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/description/?envType=daily-question&envId=2025-02-23) |
 | 22-02-2025 | 1028 | Java | [Solution](./1028.java) | [Problem](https://leetcode.com/problems/recover-a-tree-from-preorder-traversal/description/?envType=daily-question&envId=2025-02-22) |
 | 21-02-2025 | 1261 | Java | [Solution](./1261.java) | [Problem](https://leetcode.com/problems/find-elements-in-a-contaminated-binary-tree/description/?envType=daily-question&envId=2025-02-21) |
 | 20-02-2025 | 1980 | Java | [Solution](./1980.java) | [Problem](https://leetcode.com/problems/find-unique-binary-string/description/?envType=daily-question&envId=2025-02-20) |
