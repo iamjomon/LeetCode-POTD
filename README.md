@@ -11,6 +11,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Language | Solution Link                         | Problem Link                          |
 |------------|----------------|----------|---------------------------------------|---------------------------------------|
+| 01-03-2025 | 2460 | Java | [Solution](./2460.java) | [Problem](https://leetcode.com/problems/apply-operations-to-an-array/description/?envType=daily-question&envId=2025-03-01) |
 | 28-02-2025 | 1092 | Java | [Solution](./1092.java) | [Problem](https://leetcode.com/problems/shortest-common-supersequence/description/?envType=daily-question&envId=2025-02-28) |
 | 27-02-2025 | 873  | Java | [Solution](./873.java)  | [Problem](https://leetcode.com/problems/length-of-longest-fibonacci-subsequence/description/?envType=daily-question&envId=2025-02-27) |
 | 26-02-2025 | 1749 | Java | [Solution](./1749.java) | [Problem](https://leetcode.com/problems/maximum-absolute-sum-of-any-subarray/description/?envType=daily-question&envId=2025-02-26) |
