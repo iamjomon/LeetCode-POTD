@@ -11,6 +11,7 @@ This repository contains solutions to problems from ***[LeetCode](https://leetco
 
 | Date       | Problem Number | Language | Solution Link                         | Problem Link                          |
 |------------|----------------|----------|---------------------------------------|---------------------------------------|
+| 03-03-2025 | 2161 | Java | [Solution](./2161.java) | [Problem](https://leetcode.com/problems/partition-array-according-to-given-pivot/description/?envType=daily-question&envId=2025-03-03) |
 | 02-03-2025 | 2570 | Java | [Solution](./2570.java) | [Problem](https://leetcode.com/problems/merge-two-2d-arrays-by-summing-values/description/?envType=daily-question&envId=2025-03-02) |
 | 01-03-2025 | 2460 | Java | [Solution](./2460.java) | [Problem](https://leetcode.com/problems/apply-operations-to-an-array/description/?envType=daily-question&envId=2025-03-01) |
 | 28-02-2025 | 1092 | Java | [Solution](./1092.java) | [Problem](https://leetcode.com/problems/shortest-common-supersequence/description/?envType=daily-question&envId=2025-02-28) |
